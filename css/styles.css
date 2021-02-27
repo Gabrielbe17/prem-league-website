@@ -96,10 +96,11 @@ h4{
 }
 
 
+
 .PORTADA{
     margin-left: auto;
     margin-right: auto;
-    background:  url(images/stadium.jpg);
+    background:  url(/images/stadium.jpg);
     height: 20vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -205,7 +206,7 @@ img{
 
 #historia{
     padding-top: 15px;
-    background: url(images/liv.jpg);
+    background: url(/images/liv.jpg);
     margin: 35px auto;
     height: 20vh;
     background-repeat: no-repeat;
@@ -230,7 +231,7 @@ img{
 
 
 #Sistema{
-    background: url(images/son.jpg);
+    background: url(/images/son.jpg);
     margin: 35px auto;
     height: 20vh;
     background-repeat: no-repeat;
@@ -252,7 +253,7 @@ img{
    
 #Trofeo{
 
-background-image: url(images/Trofeo.jpg);
+background-image: url(/images/Trofeo.jpg);
 margin: 0 auto;
 height: 20vh;
 background-repeat: no-repeat;
