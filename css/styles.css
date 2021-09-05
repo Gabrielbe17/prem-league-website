@@ -100,7 +100,7 @@ h4{
 .PORTADA{
     margin-left: auto;
     margin-right: auto;
-    background:  url(/images/stadium.jpg);
+    background:  url(./images/stadium.jpg);
     height: 20vh;
     background-repeat: no-repeat;
     background-size: cover;
